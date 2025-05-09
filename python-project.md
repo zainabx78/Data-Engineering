@@ -83,3 +83,7 @@ df = df.drop_duplicates()
   - So checks if either of these columns has a yes (the character has either solo or duet song) and then creates a new column called `HasAnySong` and if either values are yes then the new column will have a yes. If not, the new column will contain a no. 
 
 
+## Summary 
+
+- Positive correlation between BoxOfficeMillions and PopularityScore. Princesses featured in higher grossing films had a higher popularity score. Linked to greater public recognition. 
+- Princesses with atleast one song have a higher popularity score. Songs seem to enhance memorability and popularity. 
